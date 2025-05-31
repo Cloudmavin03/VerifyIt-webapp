@@ -287,12 +287,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🎯 Citation
 If you use this work in academic research, please cite:
 bibtex@software{aquah2025verifyit,
-  author = {Ononneobazi Aquah},
-  title = {VerifyIt Nigeria: AI-Powered Investment Scam Detector},
-  year = {2025},
-  institution = {University of Calabar},
-  supervisor = {Prof. Moses Adah Agana},
-  url = {https://github.com/your-username/verifyit-nigeria}
+  author = Ononneobazi Aquah,
+  title = VerifyIt Nigeria: AI-Powered Investment Scam Detector,
+  year = 2025,
+  institution = University of Calabar,
+  supervisor = Prof. Moses Adah Agana,
+  url = https://github.com/Cloudmavin03/VerifyIt-webapp/edit/main/README.md
 }
 
 <div align="center">
