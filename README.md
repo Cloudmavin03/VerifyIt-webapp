@@ -57,6 +57,7 @@ Navigate to http://localhost:8501
 
 📋 Requirements
 Create a requirements.txt file with the following dependencies:
+
 txtstreamlit>=1.28.0
 pandas>=1.5.0
 numpy>=1.21.0
@@ -66,6 +67,7 @@ scikit-learn>=1.0.0
 xgboost>=1.6.0
 plotly>=5.0.0
 nltk>=3.7
+
 🏗️ Project Structure
 verifyit-nigeria/
 ├── app.py                 # Main Streamlit application
@@ -77,6 +79,7 @@ verifyit-nigeria/
 ├── docs/               # Additional documentation
 ├── tests/              # Unit tests
 └── data/               # Sample data and examples
+
 🧠 How It Works
 1. Text Analysis Pipeline
 
