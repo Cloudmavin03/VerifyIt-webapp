@@ -299,4 +299,6 @@ bibtex@software{aquah2025verifyit,
 Protecting Nigerian Investors Through Technology
 </div>
 
+<div align="center">
 ⚠️ Remember: Always verify investments independently and consult licensed financial advisors before making investment decisions. This tool is for educational and risk assessment purposes only.
+</div>
