@@ -58,15 +58,15 @@ Navigate to http://localhost:8501
 📋 Requirements
 Create a requirements.txt file with the following dependencies:
 
-txtstreamlit>=1.28.0
+streamlit>=1.28.0
 pandas>=1.5.0
-numpy>=1.21.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-scikit-learn>=1.0.0
-xgboost>=1.6.0
-plotly>=5.0.0
-nltk>=3.7
+numpy>=1.24.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+plotly>=5.15.0
+nltk>=3.8.0
+xgboost>=1.7.0
 
 🏗️ Project Structure
 verifyit-nigeria/
@@ -268,7 +268,6 @@ Special Thanks To:
 Nigerian Securities and Exchange Commission (SEC)
 Economic and Financial Crimes Commission (EFCC)
 Central Bank of Nigeria (CBN)
-University of Calabar faculty and staff
 Nigerian fintech community
 Open source community contributors
 Beta testers and early users
@@ -276,9 +275,8 @@ Beta testers and early users
 📞 Contact & Support
 For technical support or questions:
 
-Email: [Insert contact email]
+Email: nene.talks22@gmail.com
 GitHub Issues: Use the Issues tab for bug reports
-Academic Inquiries: Contact University of Calabar Computer Science Department
 
 For scam reports:
 
@@ -293,15 +291,12 @@ bibtex@software{aquah2025verifyit,
   author = Ononneobazi Aquah,
   title = VerifyIt Nigeria: AI-Powered Investment Scam Detector,
   year = 2025,
-  institution = University of Calabar,
-  supervisor = Prof. Moses Adah Agana,
   url = https://github.com/Cloudmavin03/VerifyIt-webapp/edit/main/README.md
 }
 
 <div align="center">
 🇳🇬 Made with ❤️ for Nigeria
 Protecting Nigerian Investors Through Technology
-University of Calabar | Department of Computer Science
 </div>
 
 ⚠️ Remember: Always verify investments independently and consult licensed financial advisors before making investment decisions. This tool is for educational and risk assessment purposes only.
